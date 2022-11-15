@@ -9,7 +9,7 @@ Authors: Murad Bashirov, Mehdi Aghakishiyev, Khadija Rajabova
 git clone https://github.com/m-spitfire/coe202-project
 ```
 ### For server
-1. Download the `best.pt` pre-trained model from the [Releases](https://github.com/m-spitfire/coe202-project/releases) tab.
+1. Download the [`best.pt`](https://github.com/m-spitfire/coe202-project/releases/download/v0.1.0-rc1/best.pt) pre-trained model from the [Releases](https://github.com/m-spitfire/coe202-project/releases) tab.
 2. Install the requirements for `yolov5`:
 ```shell
 pip install -qr https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
