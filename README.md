@@ -28,7 +28,8 @@ python server.py
 ```shell
 pip install -r requirements-client.txt
 ```
-2. Run the client
+2. Get server's IP address and set it in the [`.env`](./.env) file
+3. Run the client
 ```shell
 python client.py
 ```
